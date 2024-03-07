@@ -100,6 +100,7 @@
     ```
     sudo apt-get install gcc
     sudo apt-get install gcov
+    sudo apt-get install check
     ```
 
 2. Склонируйте репозиторий в удобную для вас диреторию
